@@ -1,0 +1,18 @@
+.class1 {
+    background-color: tomato;
+}
+
+.large {
+    font-size: 24px;
+}
+
+#n2 {
+    font-size:32px;
+    color: blue;
+}
+
+#n4 {
+    font-size: 24px;
+    font-weight: 700;
+    background-color: lightgreen;
+}
